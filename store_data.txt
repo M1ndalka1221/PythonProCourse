@@ -1,0 +1,11 @@
+{
+  "products": [
+    {"name": "Teddy Bear", "category": "soft toy", "price": 350.0, "quantity": 10},
+    {"name": "LEGO City", "category": "construction set", "price": 1200.0, "quantity": 5},
+    {"name": "Ball", "category": "sport", "price": 450.0, "quantity": 20}
+  ],
+  "customers": [
+    {"name": "Alexander", "email": "alex@example.com"},
+    {"name": "Maria", "email": "maria@example.com"}
+  ]
+}
