@@ -29,7 +29,7 @@ print(sum_numbers(5, 7))
 
 
 def division_numbers(number1: int, number2: int):
-    return number1 / number2
+    return divmod(number1, number2)
 
 print(division_numbers(9, 2))
 
